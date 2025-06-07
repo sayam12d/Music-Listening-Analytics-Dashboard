@@ -28,3 +28,16 @@ Load your music listening dataset (e.g., from Spotify or exported CSV).
 Connect the data source to the Power BI dashboard file.
 
 Explore trends, patterns, and insights via interactive visuals.
+
+## Snapshots
+
+![Screenshot 2025-06-07 111630](https://github.com/user-attachments/assets/6a1e0a37-2e86-4475-b264-580b13f2d75e)
+
+![Screenshot 2025-06-07 111648](https://github.com/user-attachments/assets/33283d82-8a31-467e-b2fa-afbf3dc3e578)
+
+![Screenshot 2025-06-07 111710](https://github.com/user-attachments/assets/48d0eefa-42db-4895-a19a-33e329a8e77e)
+
+
+
+
+
